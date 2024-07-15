@@ -67,6 +67,6 @@ Additionally, the `main()` function provides a user interface to choose between 
 
 If you have any suggestions or feedback, please don't hesitate to contact me via LinkedIn or Email:
 - **Email**: salsabilaputri7456@gmail.com
-- **LinkedIn**: [Salsabila Putri]([https://www.linkedin.com/in/your-profil](https://www.linkedin.com/in/salsabila-putri-2a003b280/)e)
+- **LinkedIn**: [Salsabila Putri](https://www.linkedin.com/in/salsabila-putri-2a003b280/)
 
 #CaesarCipher #Encryption #Decryption #Python #Security
